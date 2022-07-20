@@ -3,7 +3,7 @@ Extended version of *PB138* seminar project inteded as an example of my __ReactJ
 
 > **Note**\
 > This repository is currently __under development__.\
-> You can check out the code and start the app without content as backend is WIP.
+> You can check out the code and start the app without DB content as backend is WIP.
 
 ### Packages used
 - ReactJS
@@ -23,3 +23,10 @@ Extended version of *PB138* seminar project inteded as an example of my __ReactJ
 
 ### Run the project
 ```npm run dev```
+
+### What you should expect
+- Desktop\
+![Desktop](preview/desktop.png)
+- Mobile\
+![Mobile conversation](preview/convo.png)
+![Mobile recent](preview/recent.png)
